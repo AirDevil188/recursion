@@ -4,7 +4,7 @@ Merge Sort and Fibonacci with recursion for "The Odin Project"
 
 ## Demo
 
-https://airdevil188.github.io/weather-project/
+https://airdevil188.github.io/recursion/
 
 ## Usage
 
